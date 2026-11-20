@@ -4,14 +4,6 @@ Low-level developer & reverse engineer focused on **XNU / iOS** and **Mainline L
 
 ---
 
-### Skills
-
-| I have | I'm learning | In the memory banks |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev" /><br><img src="https://skillicons.dev" /><br>![Ghidra](https://shields.io)<br>![IDA Pro](https://shields.io) | ![XNU Kernel](https://shields.io)<br>![Adreno / Metal](https://shields.io)<br>![Device Tree](https://shields.io) | <img src="https://skillicons.dev" /> |
-
----
-
 ### Featured Projects
 
 * **[hackios-fog-release](https://github.com)** — Native **iOS 16.5 (XNU 8796.121.2)** userland & kernel bring-up on Xiaomi Redmi 10C (`fog`, Snapdragon 680). Reaches interactive SpringBoard Home Screen via RAM-only fastboot boot.
